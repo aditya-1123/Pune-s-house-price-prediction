@@ -90,7 +90,6 @@ Thumbs.db
 .vscode/
 
 # Generated requirements file
-requirements.txt
 
 # Others
 *.bak
