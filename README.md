@@ -20,4 +20,4 @@ This House Price Prediction Web App predicts house prices in Pune with an accura
 1) Clone the repository.
 2) Install the required dependencies using pip install -r requirements.txt.
 3) Run the Flask server using python app.py.
-4) Access the web app at http://localhost:5000 for real-time predictions.
+4) Access the web app at http://localhost:8000 for real-time predictions.
